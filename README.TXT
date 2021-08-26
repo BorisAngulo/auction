@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: auction
+PURPOSE OF PROJECT: 
+VERSION or DATE : 2021.08.26
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS:Boris Angulo
 USER INSTRUCTIONS:
